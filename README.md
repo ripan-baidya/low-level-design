@@ -4,15 +4,15 @@
 
 ## 1. Object-Oriented Programming
   
-- [class & objects]()
+- [Class & Objects]()
 - [Inheritance]()
 - [Polymorphism]()
 - [Abstraction]()
 - [Encapsulation]()
-- [abstraction]()
-- [aggregation]()
-- [association]()
-- [composition]()
+- [Interface]()
+- [Aggregation]()
+- [Composition]()
+- [Association]()
 
 ## 2. Design Principles
 
