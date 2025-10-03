@@ -21,7 +21,3 @@ Thumbs.db
 node_modules/
 dist/
 
-# Temporary / Editor files
-*.swp
-*.tmp
-.gitignore
