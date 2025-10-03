@@ -24,3 +24,5 @@ dist/
 # Temporary / Editor files
 *.swp
 *.tmp
+*.gitignore
+.gitignore
