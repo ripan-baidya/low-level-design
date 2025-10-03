@@ -1,4 +1,7 @@
+# Singleton Pattern
+
 ## What is Singleton Pattern?
+
 Singleton Pattern is a creational design pattern that guarantees a class has only one instance and provides a global point of access to it.
 
 It involves only one class which is responsible for instantiating itself, making sure it creates not more than one instance.
@@ -28,10 +31,10 @@ private static LazySingleton instance;
     }
 }
 ```
+
 - Checks if an instance already exists (instance == null).
 - If not, it creates a new instance.
 - If an instance already exists, it skips the creation step.
-
 
 ```markdown
 warning:
