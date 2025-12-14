@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="images/banner.png" width="500" height="300" alt="banner">
-</div>
-
 ## 1. Object-Oriented Programming
   
 - [Class & Objects]()
