@@ -2,6 +2,7 @@ package dev.ripanbaidya.factory;
 
 /**
  * Email notification implementation
+ * Concrete Product of Product (Notification)
  */
 public class EmailNotification implements Notification{
 

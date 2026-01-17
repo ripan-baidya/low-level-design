@@ -2,6 +2,7 @@ package dev.ripanbaidya.factory;
 
 /**
  * Push notification
+ * Concrete Product of Product (Notification)
  */
 public class PushNotification implements Notification {
 

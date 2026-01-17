@@ -1,11 +1,12 @@
 package dev.ripanbaidya.factory;
 
+/**
+ * Creator: A class that has a factory method for creating objects.
+ */
 public abstract class NotificationFactory {
 
     /**
      * Factory method
-     *
-     * @return type of notification
      */
     public abstract Notification createNotification();
 
